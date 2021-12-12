@@ -1,0 +1,48 @@
+[00:02:02]: [Join Announcement] Candice
+[00:03:01]: [Join Announcement] Era
+[00:03:27]: [Join Announcement] NN is a hack
+[00:08:29]: [Join Announcement] Peekay
+[00:10:18]: [Join Announcement] remas
+[00:11:17]: [Say] (KU_LbGXpn4Y) remas:  (50�) I'm at a comfortable temperature.
+[00:11:19]: [Say] (KU_accT6sOb) Era:  (52�) I'm at a comfortable temperature.
+[00:12:20]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 59/200) Take off ya nightmarish hosers!
+[00:14:26]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 88/150) Still full enough to chop.
+[00:18:11]: [Say] (KU_W2aNVnkw) NN is a hack:  There are 3 days left in Summer.
+[00:18:52]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 26/200) All of me fears are real, and hurt!
+[00:20:11]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 47/200) Take off ya nightmarish hosers!
+[00:25:23]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 36/200) Take off ya nightmarish hosers!
+[00:26:09]: [Say] (KU_LbGXpn4Y) remas:  There are 2 days left in Summer.
+[00:27:53]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 158/200) All good on the Northern front!
+[00:27:57]: [Say] (KU_W2aNVnkw) NN is a hack:  (Sanity: 124/250) These migraines are unbearable.
+[00:29:44]: [Say] (KU_LbGXpn4Y) remas:  (Health: 20/150) The beast limps pathetically.
+[00:31:43]: [Say] (KU_LbGXpn4Y) remas:  There are 1 days left in Summer.
+[00:31:48]: [Say] (KU_LbGXpn4Y) remas:  (Health: 49/150) That's really starting to hurt, eh...
+[00:32:22]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 139/200) Still fine in the noggin.
+[00:34:41]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 106/150) Still full enough to chop.
+[00:36:16]: [Say] (KU_LbGXpn4Y) remas:  There are 1 days left in Summer.
+[00:38:15]: [Skin Announcement] Era body_tshirt_red_higgsbury
+[00:41:51]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 38/150) Ring the dinner bell!
+[00:42:19]: [Leave Announcement] NN is a hack
+[00:44:11]: [Join Announcement] NN is a hack
+[00:46:21]: [Say] (KU_LbGXpn4Y) remas:  (Log Meter: 62/100) The beast munches on a twig.
+[00:52:04]: [Skin Announcement] NN is a hack feet_willow_dowdy
+[00:52:59]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 12/150) I'm starving!
+[00:54:22]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 58/200) Take off ya nightmarish hosers!
+[00:54:52]: [Say] (KU_LbGXpn4Y) remas:  There are 18 days left in Autumn.
+[00:56:57]: [Skin Announcement] Candice legs_pants_basic_grey_dark
+[00:57:56]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 58/200) Take off ya nightmarish hosers!
+[01:05:06]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 40/200) Take off ya nightmarish hosers!
+[01:09:26]: [Death Announcement] remas was killed by Terrorbeak. He became a spooky ghost!
+[01:10:00]: [Resurrect Announcement] remas was resurrected by NN is a hack.
+[01:10:26]: [Say] (KU_LbGXpn4Y) remas:  (Health: 50/150) That's really starting to hurt, eh...
+[01:11:56]: [Skin Announcement] remas wilson_beard_formal
+[01:24:13]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 11/150) I'm starving!
+[01:25:20]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 100/200) I think I need a nap, eh!
+[01:25:25]: [Say] (KU_accT6sOb) Era:  (Abigail: 65/150) Be careful, Abigail! I can hardly see you anymore!
+[01:29:53]: [Say] (KU_LbGXpn4Y) remas:  There are 14 days left in Autumn.
+[01:31:52]: [Death Announcement] Candice was killed by Fire. He became a spooky ghost!
+[01:32:25]: [Leave Announcement] NN is a hack
+[01:32:42]: [Leave Announcement] remas
+[01:32:57]: [Leave Announcement] Era
+[01:33:00]: [Leave Announcement] Candice
+[01:33:01]: [Leave Announcement] Peekay

@@ -1,0 +1,7 @@
+[00:02:44]: [Join Announcement] Candice
+[00:03:08]: [Join Announcement] remas
+[00:05:08]: [Join Announcement] Era
+[00:06:54]: [Say] (KU_accT6sOb) Era: ygd
+[00:07:04]: [Say] (KU_LbGXpn4Y) remas:  There are 8 days left in Winter.
+[00:07:29]: [Join Announcement] NN is a hack
+[00:07:30]: [Leave Announcement] Candice

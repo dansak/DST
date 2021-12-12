@@ -1,0 +1,21 @@
+[00:01:15]: [Join Announcement] Candice
+[00:01:25]: [Join Announcement] Era
+[00:02:53]: [Join Announcement] NN is a hack
+[00:10:57]: [Skin Announcement] NN is a hack feet_buckle_shoe_navy_phthalo
+[00:34:23]: [Join Announcement] Peekay
+[00:43:41]: [Announcement] You feel an evil presence watching you...
+[00:43:51]: [Announcement] The Eye of Terror turns its gaze toward Peekay
+[00:46:21]: [Skin Announcement] Candice body_tshirt_green_leaf
+[00:49:37]: [Skin Announcement] Era feet_webber_punk
+[01:11:33]: [Leave Announcement] NN is a hack
+[01:12:50]: [Join Announcement] NN is a hack
+[01:13:31]: [Skin Announcement] NN is a hack feet_willow_haunteddoll
+[01:23:18]: [Death Announcement] NN is a hack was killed by Bee Queen. She became a spooky ghost!
+[01:26:31]: [Death Announcement] Peekay was killed by Bee Queen. He became a spooky ghost!
+[01:26:42]: [Death Announcement] Candice was killed by Grumble Bee. He became a spooky ghost!
+[01:26:45]: [Say] (KU_omZN4va9) Candice: ???
+[01:27:06]: [Death Announcement] Era was killed by Grumble Bee. She became a spooky ghost!
+[01:27:15]: [Leave Announcement] Candice
+[01:27:16]: [Leave Announcement] Era
+[01:27:16]: [Leave Announcement] NN is a hack
+[01:27:16]: [Leave Announcement] Peekay

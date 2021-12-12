@@ -1,0 +1,28 @@
+[00:01:44]: [Join Announcement] Candice
+[00:03:19]: [Join Announcement] Era
+[00:06:42]: [Say] (KU_accT6sOb) Era:  (Health: 97/150) Life brings pain, but I am not used to this much.
+[00:08:34]: [Join Announcement] Peekay
+[00:09:24]: [Join Announcement] NN is a hack
+[00:36:38]: [Death Announcement] Candice was killed by Freezing. He became a spooky ghost!
+[00:37:41]: [Resurrect Announcement] Candice was resurrected by Era.
+[00:51:07]: [Skin Announcement] Candice feet_woodie_hockey
+[00:55:49]: [Skin Announcement] NN is a hack body_flannel_green_napier
+[00:58:45]: [Death Announcement] Era was killed by Goose. She became a spooky ghost!
+[01:00:02]: [Resurrect Announcement] Era was resurrected by Peekay.
+[01:05:54]: [Skin Announcement] Era legs_checkered_pleats_grey_slate
+[01:15:34]: [Death Announcement] Era was killed by Terrorbeak. She became a spooky ghost!
+[01:15:57]: [Resurrect Announcement] Era was resurrected by NN is a hack.
+[01:18:40]: [Leave Announcement] Peekay
+[01:26:21]: [Join Announcement] Peekay
+[01:58:42]: [Skin Announcement] Candice legs_wortox_nature
+[02:08:41]: [Leave Announcement] Era
+[02:09:50]: [Death Announcement] Peekay was killed by Terrorbeak. He became a spooky ghost!
+[02:09:53]: [Join Announcement] Era
+[02:10:17]: [Resurrect Announcement] Peekay was resurrected by Era.
+[02:14:38]: [Skin Announcement] Era legs_skirt_basic_grey_dark
+[02:45:42]: [Skin Announcement] NN is a hack legs_shorts_red_firehound
+[03:26:03]: [Say] (KU_W2aNVnkw) NN is a hack:  (Sanity: 92/250) These migraines are unbearable.
+[03:26:07]: [Say] (KU_accT6sOb) Era:  (Abigail: 544/600) Abigail is brighter than ever!
+[03:27:59]: [Say] (KU_accT6sOb) Era:  (Hunger: 50/150) I am full of emptiness.
+[04:04:51]: [Leave Announcement] NN is a hack
+[04:04:53]: [Leave Announcement] Candice

@@ -1,0 +1,50 @@
+[00:01:20]: [Join Announcement] Candice
+[00:01:22]: [Join Announcement] Era
+[00:01:24]: [Join Announcement] remas
+[00:01:52]: [Join Announcement] Peekay
+[00:07:08]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 0/150) I'm starving!
+[00:07:40]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 155/200) All good on the Northern front!
+[00:08:07]: [Death Announcement] Peekay was killed by Ancient Guardian. He became a spooky ghost!
+[00:08:32]: [Skin Announcement] Era feet_workboot_tan_clay
+[00:09:00]: [Say] (KU_omZN4va9) Candice:  I'll make a boards.
+[00:09:12]: [Say] (KU_LbGXpn4Y) remas:  We need more science machines.
+[00:11:05]: [Resurrect Announcement] Peekay was resurrected by Era.
+[00:11:23]: [Join Announcement] NN is a hack
+[00:17:29]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 15/150) I'm starving!
+[00:19:05]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 9/150) I'm starving!
+[00:20:19]: [Leave Announcement] Peekay
+[00:21:49]: [Join Announcement] Peekay
+[00:23:05]: [Death Announcement] Peekay was killed by Ancient Guardian. He became a spooky ghost!
+[00:25:09]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 132/200) Still fine in the noggin.
+[00:25:22]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 115/150) All full up!
+[00:27:15]: [Resurrect Announcement] Peekay was resurrected by Era.
+[00:32:05]: [Leave Announcement] Peekay
+[00:41:32]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 39/150) Ring the dinner bell!
+[00:43:33]: [Skin Announcement] Candice legs_shorts_black_scribble
+[00:45:44]: [Skin Announcement] NN is a hack legs_pinstripe_pants_purple_violet
+[00:53:08]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 70/150) Might need a snack, eh!
+[01:00:01]: [Skin Announcement] remas legs_pinstripe_pants_red_garnet
+[01:09:16]: [Join Announcement] Peekay
+[01:17:15]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 34/150) Ring the dinner bell!
+[01:17:33]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 31/150) Ring the dinner bell!
+[01:23:01]: [Death Announcement] remas was killed by Sea Weed. He became a spooky ghost!
+[01:25:15]: [Resurrect Announcement] remas was resurrected by NN is a hack.
+[01:26:41]: [Say] (KU_LbGXpn4Y) remas:  (Health: 50/150) That's really starting to hurt, eh...
+[01:36:30]: [Skin Announcement] Era legs_shorts_blue_cerulean
+[01:47:00]: [Say] (KU_LbGXpn4Y) remas:  There are 1 days left in Autumn.
+[01:51:36]: [Skin Announcement] NN is a hack feet_willow_dowdy
+[01:53:18]: [Skin Announcement] Candice webber_beard_nature
+[01:54:17]: [Say] (KU_LbGXpn4Y) remas:  (43�) I'm at a comfortable temperature.
+[01:54:38]: [Say] (KU_LbGXpn4Y) remas:  (40�) I'm at a comfortable temperature.
+[01:55:29]: [Say] (KU_W2aNVnkw) NN is a hack:  There are 15 days left in Winter.
+[01:55:41]: [Say] (KU_LbGXpn4Y) remas:  (Wetness: 1/100) Hardly a drop on me, eh?
+[01:56:23]: [Say] (KU_LbGXpn4Y) remas:  (Wetness: 100/100) Far too wet even to chop, eh?
+[01:58:18]: [Say] (KU_LbGXpn4Y) remas:  (Health: 113/150) What doesn't kill you makes you stronger, eh?
+[01:58:35]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 162/200) All good on the Northern front!
+[01:58:47]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 162/200) All good on the Northern front!
+[02:00:54]: [Skin Announcement] remas legs_skirt_basic_blue_peacock
+[02:00:59]: [Skin Announcement] Peekay hand_longgloves_black_scribble
+[02:01:25]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 200/200) All good on the Northern front!
+[02:02:22]: [Death Announcement] NN is a hack was killed by Blue Hound. She became a spooky ghost!
+[02:02:28]: [Death Announcement] Candice was killed by Hound. He became a spooky ghost!
+[02:03:00]: [Leave Announcement] Candice

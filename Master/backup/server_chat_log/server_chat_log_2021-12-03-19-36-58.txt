@@ -1,0 +1,13 @@
+[00:00:55]: [Join Announcement] Candice
+[00:01:11]: [Join Announcement] Peekay
+[00:01:23]: [Join Announcement] Era
+[00:01:29]: [Join Announcement] NN is a hack
+[00:37:09]: [Skin Announcement] Candice body_winona_victorian
+[00:37:33]: [Skin Announcement] Era legs_pants_basic_yellow_mustard
+[01:03:21]: [Skin Announcement] NN is a hack feet_wickerbottom_magma
+[01:14:14]: [Leave Announcement] NN is a hack
+[01:21:02]: [Join Announcement] NN is a hack
+[01:30:40]: [Leave Announcement] NN is a hack
+[01:30:57]: [Leave Announcement] Era
+[01:31:03]: [Leave Announcement] Candice
+[01:31:04]: [Leave Announcement] Peekay

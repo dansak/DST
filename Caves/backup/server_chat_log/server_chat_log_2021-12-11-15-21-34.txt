@@ -1,0 +1,22 @@
+[00:01:07]: [Join Announcement] Candice
+[00:01:25]: [Join Announcement] remas
+[00:04:39]: [Join Announcement] NN is a hack
+[00:05:40]: [Join Announcement] Era
+[00:06:46]: [Join Announcement] Peekay
+[00:13:15]: [Leave Announcement] Peekay
+[00:16:00]: [Say] (KU_accT6sOb) Era:  (Hunger: 0/150) I have found the slowest way to die. Starvation.
+[00:18:02]: [Skin Announcement] NN is a hack body_polo_white_marble
+[00:22:27]: [Skin Announcement] remas hand_waxwell_gladiator
+[00:31:23]: [Skin Announcement] Candice pickaxe_invisible
+[00:32:18]: [Say] (KU_LbGXpn4Y) remas:  There are 11 days left in Spring.
+[00:39:42]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 73/200) I think I need a nap, eh!
+[00:39:45]: [Say] (KU_W2aNVnkw) NN is a hack:  There are 10 days left in Spring.
+[00:39:47]: [Say] (KU_accT6sOb) Era:  (Sanity: 143/200) My thoughts grow murky.
+[00:40:49]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 67/200) Take off ya nightmarish hosers!
+[00:43:26]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 56/200) Take off ya nightmarish hosers!
+[00:52:45]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 59/150) Might need a snack, eh!
+[00:54:03]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 29/200) All of me fears are real, and hurt!
+[00:55:05]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 15/200) All of me fears are real, and hurt!
+[00:57:29]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 15/150) I'm starving!
+[00:58:40]: [Join Announcement] Peekay
+[01:00:48]: [Skin Announcement] Era feet_sneakers_green_cactus

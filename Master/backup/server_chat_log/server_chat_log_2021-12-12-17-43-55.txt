@@ -1,0 +1,33 @@
+[00:00:43]: [Join Announcement] Candice
+[00:00:57]: [Join Announcement] Era
+[00:01:18]: [Join Announcement] remas
+[00:03:08]: [Join Announcement] Peekay
+[00:03:33]: [Join Announcement] NN is a hack
+[00:08:19]: [Say] (KU_LbGXpn4Y) remas:  There are 6 days left in Spring.
+[00:12:25]: [Say] (KU_LbGXpn4Y) remas:  There are 5 days left in Spring.
+[00:18:01]: [Say] (KU_LbGXpn4Y) remas:  There are 4 days left in Spring.
+[00:21:00]: [Skin Announcement] NN is a hack feet_waxwell_nature
+[00:36:39]: [Say] (KU_accT6sOb) Era:  There are 2 days left in Spring.
+[00:37:09]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 20/200) The beast growls and appears to be being hunted by the multiplying shadows.
+[00:37:21]: [Say] (KU_LbGXpn4Y) remas:  (Health: 28/150) Put me to rest... in the woods...
+[00:37:35]: [Skin Announcement] Candice hand_longgloves_red_ruby
+[00:38:43]: [Say] (KU_LbGXpn4Y) remas:  There are 2 days left in Spring.
+[00:39:21]: [Skin Announcement] remas backpack_buckle_grey_pewter
+[00:40:15]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 73/200) I think I need a nap, eh!
+[00:41:01]: [Say] (KU_LbGXpn4Y) remas:  (53�) I'm at a comfortable temperature.
+[00:41:07]: [Say] (KU_LbGXpn4Y) remas:  There are 1 days left in Spring.
+[00:44:26]: [Say] (KU_LbGXpn4Y) remas:  There are 1 days left in Spring.
+[00:46:37]: [Say] (KU_LbGXpn4Y) remas:  There are 1 days left in Spring.
+[01:04:10]: [Leave Announcement] remas
+[01:12:01]: [Join Announcement] remas
+[01:21:28]: [Skin Announcement] Era legs_shorts_black_scribble
+[01:29:17]: [Skin Announcement] NN is a hack feet_sneakers_tan_beefalo
+[01:34:51]: [Say] (KU_LbGXpn4Y) remas:  There are 10 days left in Summer.
+[01:35:08]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 56/200) Take off ya nightmarish hosers!
+[01:37:56]: [Say] (KU_LbGXpn4Y) remas:  (Sanity: 42/200) Take off ya nightmarish hosers!
+[01:42:24]: [Leave Announcement] Peekay
+[01:42:41]: [Say] (KU_LbGXpn4Y) remas:  (Hunger: 62/150) Might need a snack, eh!
+[01:47:14]: [Say] (KU_LbGXpn4Y) remas:  There are 8 days left in Summer.
+[01:49:53]: [Leave Announcement] Era
+[01:49:53]: [Leave Announcement] remas
+[01:49:56]: [Leave Announcement] Candice
